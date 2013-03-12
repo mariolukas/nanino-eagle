@@ -1992,8 +1992,8 @@ design rules under a new name.</description>
 <signal name="D2">
 <contactref element="U$1" pad="D2"/>
 <contactref element="IC1" pad="4"/>
-<wire x1="58.42" y1="50.8" x2="58.42" y2="44.22" width="0.8128" layer="16"/>
-<wire x1="58.42" y1="44.22" x2="56.8" y2="38.4" width="0.8128" layer="16"/>
+<wire x1="58.42" y1="50.8" x2="58.42" y2="40.32" width="0.8128" layer="16"/>
+<wire x1="58.42" y1="40.32" x2="56.8" y2="38.4" width="0.8128" layer="16"/>
 <wire x1="56.8" y1="38.4" x2="56.8" y2="29.04764375" width="0.8128" layer="16"/>
 <wire x1="56.8" y1="29.04764375" x2="52.230253125" y2="24.277896875" width="0.8128" layer="16"/>
 </signal>
