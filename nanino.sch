@@ -13513,8 +13513,9 @@ Source: AVX .. aphvc.pdf</description>
 <pinref part="IC1" gate="G$1" pin="PC6(/RESET/PCI14)"/>
 <wire x1="111.76" y1="83.82" x2="109.22" y2="83.82" width="0.1524" layer="91"/>
 <pinref part="R2" gate="G$1" pin="2"/>
-<wire x1="109.22" y1="83.82" x2="101.6" y2="83.82" width="0.1524" layer="91"/>
+<wire x1="109.22" y1="83.82" x2="104.14" y2="83.82" width="0.1524" layer="91"/>
 <junction x="109.22" y="83.82"/>
+<wire x1="104.14" y1="83.82" x2="101.6" y2="83.82" width="0.1524" layer="91"/>
 <wire x1="127" y1="91.44" x2="119.38" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="119.38" y1="91.44" x2="111.76" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="111.76" y1="91.44" x2="111.76" y2="83.82" width="0.1524" layer="91"/>
@@ -13524,6 +13525,8 @@ Source: AVX .. aphvc.pdf</description>
 <junction x="119.38" y="91.44"/>
 <pinref part="JP5" gate="G$1" pin="1"/>
 <wire x1="127" y1="101.6" x2="127" y2="91.44" width="0.1524" layer="91"/>
+<pinref part="S1" gate="1" pin="S"/>
+<wire x1="104.14" y1="86.36" x2="104.14" y2="83.82" width="0.1524" layer="91"/>
 </segment>
 <segment>
 <wire x1="68.58" y1="48.26" x2="71.12" y2="48.26" width="0.1524" layer="91"/>

@@ -1884,6 +1884,9 @@ design rules under a new name.</description>
 <wire x1="35" y1="8.5" x2="60.5" y2="8.5" width="0.8128" layer="1"/>
 <wire x1="60.5" y1="8.5" x2="60.5" y2="21.5" width="0.8128" layer="1"/>
 <wire x1="35" y1="8.5" x2="35" y2="12" width="0.8128" layer="16"/>
+<contactref element="S1" pad="1"/>
+<wire x1="62.5094" y1="24.1888" x2="62.5094" y2="23.5094" width="0.8128" layer="16"/>
+<wire x1="62.5094" y1="23.5094" x2="60.5" y2="21.5" width="0.8128" layer="16"/>
 </signal>
 <signal name="N$4">
 <contactref element="LED1" pad="A"/>
@@ -1989,8 +1992,8 @@ design rules under a new name.</description>
 <signal name="D2">
 <contactref element="U$1" pad="D2"/>
 <contactref element="IC1" pad="4"/>
-<wire x1="58.42" y1="50.8" x2="58.42" y2="40.12" width="0.8128" layer="16"/>
-<wire x1="58.42" y1="40.12" x2="56.8" y2="38.4" width="0.8128" layer="16"/>
+<wire x1="58.42" y1="50.8" x2="58.42" y2="44.22" width="0.8128" layer="16"/>
+<wire x1="58.42" y1="44.22" x2="56.8" y2="38.4" width="0.8128" layer="16"/>
 <wire x1="56.8" y1="38.4" x2="56.8" y2="29.04764375" width="0.8128" layer="16"/>
 <wire x1="56.8" y1="29.04764375" x2="52.230253125" y2="24.277896875" width="0.8128" layer="16"/>
 </signal>
