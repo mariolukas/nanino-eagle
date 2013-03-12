@@ -13637,7 +13637,8 @@ Source: AVX .. aphvc.pdf</description>
 <wire x1="7.62" y1="71.12" x2="5.08" y2="71.12" width="0.1524" layer="91"/>
 </segment>
 <segment>
-<wire x1="165.1" y1="53.34" x2="170.18" y2="53.34" width="0.1524" layer="91"/>
+<pinref part="IC1" gate="G$1" pin="(PCI18/INT0)PD2"/>
+<wire x1="167.64" y1="53.34" x2="170.18" y2="53.34" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="D3" class="0">
